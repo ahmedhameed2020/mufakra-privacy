@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MUFAKRA Privacy Policy</title>
+<style>
+:root{--bg:#f7f4ee;--fg:#12213a;--mut:#5b6678;--line:#d9d3c7}
+@media (prefers-color-scheme:dark){:root{--bg:#0b1220;--fg:#e8edf5;--mut:#9aa7ba;--line:#26334a}}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.8 system-ui,"Segoe UI",Tahoma,sans-serif}
+main{max-width:760px;margin:0 auto;padding:24px 16px 64px}
+section{padding-bottom:32px;margin-bottom:32px;border-bottom:1px solid var(--line)}
+section:last-child{border:0}
+blockquote{margin:0 0 16px;color:var(--mut)}
+table{border-collapse:collapse;width:100%}
+th,td{border:1px solid var(--line);padding:8px;text-align:start;vertical-align:top}
+a{color:inherit}
+</style>
+</head>
+<body>
+<main>
+<section id="ar" dir="rtl" lang="ar"></section>
+<section id="en" dir="ltr" lang="en"></section>
+</main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<script>
+for (const [id, f] of [["ar","ar.md"],["en","en.md"]]) {
+  fetch(f).then(r => r.text()).then(t => {
+    document.getElementById(id).innerHTML = marked.parse(t);
+  });
+}
+</script>
+<noscript><p><a href="ar.md">العربية</a> · <a href="en.md">English</a></p></noscript>
+</body>
+</html>
