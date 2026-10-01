@@ -25,7 +25,7 @@ You enter it yourself, and it stays in a database on your device:
 | Permission | Why |
 |---|---|
 | Notifications and exact alarms | Lesson and payment reminders, scheduled on your device. |
-| Contacts (optional) | Importing a student from your contacts, only when you ask. Never read in the background. |
+| Contacts (no permission needed) | When you add a student, your device's own contact picker opens and you choose one contact. The app receives only the contact you pick and cannot read the rest of your contacts. |
 | Biometrics / screen lock (optional) | Locking the app with your fingerprint or face. Handled entirely by the device OS. |
 | Files | Saving a backup or PDF report, or importing a student list from Excel, where you choose. |
 | Internet | Only to open WhatsApp or links, and for Google Drive sync if you turn it on. |
