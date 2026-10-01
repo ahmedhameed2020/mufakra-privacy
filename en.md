@@ -1,11 +1,9 @@
 
 # Privacy Policy — MUFAKRA
 
-> Draft. Replace the `[ ]` placeholders and publish at a public URL before use.
-
-**Last updated:** [date]
-**Developer:** [your name or entity]
-**Contact:** [email]
+**Last updated:** 1 October 2026
+**Developer:** Ahmed Abdelhamid
+**Contact:** privacy@mufakra.app
 
 ## In short
 
@@ -70,4 +68,4 @@ If this policy changes we will update the date above and note material changes i
 
 ## Contact
 
-Privacy questions: [email]
+Privacy questions: privacy@mufakra.app
