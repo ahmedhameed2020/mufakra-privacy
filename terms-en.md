@@ -1,8 +1,9 @@
 
 # Terms of Service — MUFAKRA
 
-**Last updated:** 1 October 2026
-**Developer:** Ahmed Abdelhamid
+**Last updated:** 2 October 2026
+**App:** Mufakra – Teacher Planner (مُفكّرة — مفكرة المعلّم)
+**Developer:** FlowTech Solutions — operated by Adamworld LLC, Wyoming, United States
 **Contact:** privacy@mufakra.app
 
 By using MUFAKRA you agree to these terms. If you do not agree, do not use the app.

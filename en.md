@@ -1,8 +1,9 @@
 
 # Privacy Policy — MUFAKRA
 
-**Last updated:** 1 October 2026
-**Developer:** Ahmed Abdelhamid
+**Last updated:** 2 October 2026
+**App:** Mufakra – Teacher Planner (مُفكّرة — مفكرة المعلّم)
+**Developer:** FlowTech Solutions — operated by Adamworld LLC, Wyoming, United States
 **Contact:** privacy@mufakra.app
 
 ## In short
